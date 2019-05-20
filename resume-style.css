@@ -1,12 +1,6 @@
-/* Stylesheet for resume.html */
-
 body {
     max-width: 750px;
     margin: auto;
-}
-
-#name {
-    text-align: center;
 }
 
 .header {
