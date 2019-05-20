@@ -1,0 +1,9 @@
+/* General style for jconroy14.github.io */
+
+* {
+    font-family: sans-serif;
+}
+
+div, span, p {
+    font-size: 16px;
+}
