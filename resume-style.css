@@ -1,6 +1,6 @@
 /* Stylesheet for resume.html */
 
-#document {
+body {
     max-width: 750px;
     margin: auto;
 }
